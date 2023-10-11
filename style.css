@@ -1,0 +1,84 @@
+/* Reset de estilos para zerar as configurações padrão dos navegadores */
+body, h1, h2, p, ul, li {
+    margin: 10;
+    padding: 10;
+}
+
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b9a7a7;
+    color: #000000;
+    line-height: 1.6;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #052c4e;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+/* Estilos para a navegação */
+nav {
+    background-color: #444;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Estilos para a seção principal */
+.section {
+    padding: 20px;
+}
+
+/* Estilos para links */
+a {
+    color: #e8e9ef;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+/* Estilos para rodapé */
+footer {
+    background-color: #061667;
+    color: #b7b7b7;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Estilos para imagens */
+img {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 10px;
+    left: 300px;
+}
+p{
+    position: relative;
+    left: 10px;
+}

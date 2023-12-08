@@ -6,12 +6,10 @@ Tem o objetivo de explicar o aquecimento global, trazendo dados e indicadores
 - HTML
 - CSS
 - JS
-- SQL
 
 # Colaboradores
 GLOBALMENTE AQUECIDO
 - Participantes:
-- augusto cesar
 - caio buonora
 - carlos lucena 
 - paulo souza
